@@ -1,0 +1,107 @@
+#title{
+    background-color: #ff4c68;
+}
+h1{
+    font-family: "Montserrat-Black";
+    font-size:3rem;
+    line-height:1.5;
+    color: white;
+  }
+button{
+    background-color: #ff4c68;
+}
+.container-fluid{
+    padding: 3% 5%;
+}
+.navbar{
+    padding-bottom: 6rem;
+}
+.navbar-brand{
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+.nav-item
+{
+    padding-left: 1rem;
+}
+.title-image{
+    width: 41%;
+}
+.rotated{
+    transform: rotate(45deg);
+
+}
+.features-color{
+    color: pink;
+    size: 100rem;
+    text-align: center;
+    padding-left: 10ex;
+}
+.bold-h3{
+    font-weight: bold;
+    color: black;
+}
+.thin-p{
+    font-weight:lighter;
+    color: gray;
+}
+.features-color:hover{
+    color: #ff4c68;
+}
+#features{
+    margin-top: 100px;
+    margin-bottom: 100px;
+    background: white;
+}
+#testimonials
+{
+    text-align: center;
+    background-color: #ff4c68;
+    color: white;
+    border: 800px;
+}
+.carousel-size{
+    size: 100px;
+}
+h2{
+    color: white;
+    font-size: xx-large;
+}
+.testimonial-image{
+    border-radius: 100%;
+}
+#press{
+    background-color: #ff4c68;
+    text-align: center;
+    padding-bottom: 3%;
+    border-bottom-left-radius: 100%;
+    border-bottom-right-radius: 100%;
+}
+.press-logo{
+    width: 15%;
+}
+#pricing{
+    text-align: center;
+
+}
+.princing-h2{
+    color: black;
+}
+.card-h3{
+    background-color: lightgrey;
+}
+.card-h2{
+    font-weight: bolder;
+    color: black;
+}
+#cta{
+    background: #ff4c68;
+    text-align: center;
+}
+.cta-h3{
+    color: white;
+}
+#footer
+{
+    text-align: center;
+}
